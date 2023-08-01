@@ -1,7 +1,6 @@
-Built full stack zomato web app using frontend library React.js, Bootstrap and created Restful Api using Express.js and for database used MongoDB. 
+# Built full stack zomato web app using frontend library React.js, Bootstrap and created Restful Api using Express.js and for database used MongoDB. 
 
-Features : 
-
+# Features : 
 # quick search : in home page added total 6 mealtype like breakfast, lunch, dinnner , snack... by using that user quickly go that particular mealtype and can order.
 # Filter :  location, sorting, minimum cost, cuisine - as per that filterout restaurant data.
 # payment intergation : when user will add order item then it wll redirect to razorpay payment mode where user can pay through upi , debit/credit card, netbanking..
